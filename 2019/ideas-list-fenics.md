@@ -21,9 +21,9 @@ be a huge usability improvement for users working with very complex geometries.
 
 ### Description
 
-| **Intensity** | **Priority | **Involves**  | **Mentors** |
-| ------------- | -----------| ------------- | ----------- |
-| Moderate      | High       | Python, C++   | [Chris Richardson](mailto:chris@bpi.cam.ac.uk) |
+| **Intensity** | **Priority** | **Involves**  | **Mentors** |
+| ------------- | -----------  | ------------- | ----------- |
+| Moderate      | High         | Python, C++   | [Chris Richardson](mailto:chris@bpi.cam.ac.uk) |
 
 ### Technical Details
 
@@ -57,9 +57,9 @@ beyond FEniCS Project.
 
 ### Description
 
-| **Intensity** | **Priority | **Involves**  | **Mentors** |
-| ------------- | -----------| ------------- | ----------- |
-| High          | Medium     | Python, C++   | [Michal Habera](mailto:michal.habera@uni.lu) |
+| **Intensity** | **Priority** | **Involves**  | **Mentors** |
+| ------------- | ------------ | ------------- | ----------- |
+| High          | Medium       | Python, C++   | [Michal Habera](mailto:michal.habera@uni.lu) |
 
 ### Technical Details
 
@@ -93,9 +93,9 @@ like ParMetis or PT-Scotch" (source: KaHIP user guide) .
 
 ### Description
 
-| **Intensity** | **Priority | **Involves**  | **Mentors** |
-| ------------- | -----------| ------------- | ----------- |
-| High          | Medium     | Python, C++   | [Garth N. Wells](mailto:gnw20@cam.ac.uk) |
+| **Intensity** | **Priority** | **Involves**  | **Mentors** |
+| ------------- | ------------ | ------------- | ----------- |
+| High          | Medium       | Python, C++   | [Garth N. Wells](mailto:gnw20@cam.ac.uk) |
 
 ### Technical details
 
